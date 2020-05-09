@@ -1,3 +1,7 @@
 dev
 xiu gai zhe ge wen jian
+<<<<<<< HEAD
 local update
+=======
+me too
+>>>>>>> 299fa4a5dc5a924642078480e3246897fc97030a
