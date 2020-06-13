@@ -12,4 +12,10 @@ public class TestController {
     public String getMsg() {
         return "恭喜发财";
     }
+    
+    
+     @GetMapping
+    public String getNewMsg() {
+        return "new msg";
+    }
 }
