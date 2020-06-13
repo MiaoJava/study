@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49fb75c7-37e6-4763-970c-118d990d735e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/dev.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/origin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zuixin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/修改dev分支.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/新添加了dev分支.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/添加了master.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packagetest/src/main/java/com/example/packagetest/web/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/packagetest/src/main/java/com/example/packagetest/web/controller/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +42,12 @@
       <option name="presentableId" value="Default" />
       <updated>1592035285904</updated>
       <workItem from="1592035288932" duration="18000" />
+      <workItem from="1592035711826" duration="385000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1341" y="653" key="FileChooserDialogImpl" timestamp="1592035304574">

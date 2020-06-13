@@ -10,6 +10,6 @@ public class TestController {
 
     @GetMapping
     public String getMsg() {
-        return "恭喜发财";
+        return "恭喜发财 miao";
     }
 }
