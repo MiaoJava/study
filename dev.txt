@@ -1,7 +1,0 @@
-dev
-xiu gai zhe ge wen jian
-local update
-me too
-version local
-version remote
-update again
